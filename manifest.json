@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Meme Generator by Dipika",
+  "version": "1.0",
+  "description": "Shows a random meme from meme-api.com",
+  "permissions": ["activeTab", "storage"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
+
